@@ -20,7 +20,7 @@ from suds.client import Client
 #------------------------------------------------------------------------------
 
 # These four lines (below) are common to all usages
-# These two lines adresses to the wsdl and the com46 card
+# These two lines are the addresses to the wsdl and the com46 card
 
 com46url = 'http://192.168.3.6:8080'
 url = 'file:///Python27/mcb225control.wsdl'
